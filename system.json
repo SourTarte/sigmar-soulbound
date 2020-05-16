@@ -23,6 +23,6 @@
   "primaryTokenAttribute": "resources.toughness",
   "secondaryTokenAttribute": "resources.mettle",
   "url": "https://your/hosted/system/repo/",
-  "manifest": "https://github.com/SourTarte/sigmar-soulbound/raw/master/system.json",
+  "manifest": "https://www.github.com/SourTarte/sigmar-soulbound/raw/master/system.json",
   "download": "https://raw.githubusercontent.com/SourTarte/sigmar-soulbound/archive/master.zip"
 }

@@ -23,5 +23,5 @@
   "secondaryTokenAttribute": "resources.mettle",
   "url": "https://your/hosted/system/repo/",
   "manifest": "https://github.com/SourTarte/sigmar-soulbound/raw/master/system.json",
-  "download": "https://github.com/Perfectro/Age-of-Sigmar-Soulbound-FoundryVTT/archive/master.zipd"
+  "download": "https://github.com/Perfectro/Age-of-Sigmar-Soulbound-FoundryVTT/archive/master.zip"
 }

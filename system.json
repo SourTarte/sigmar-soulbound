@@ -1,0 +1,28 @@
+{
+  "name": "aosrpgwip",
+  "title": "Age of Sigmar Soulbound",
+  "description": "Epic Adventures in the Mortal Realms",
+  "version": "0.0.1",
+  "templateVersion": 2,
+  "author": "SourTarte",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "initiative": "",
+  "gridDistance": null,
+  "gridUnits": null,
+  "primaryTokenAttribute": "resources.toughness",
+  "secondaryTokenAttribute": "resources.mettle",
+  "url": "https://your/hosted/system/repo/",
+  "manifest": "https://github.com/SourTarte/sigmar-soulbound/raw/master/system.json",
+  "download": "https://github.com/Perfectro/Age-of-Sigmar-Soulbound-FoundryVTT/archive/master.zipd"
+}

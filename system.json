@@ -3,7 +3,7 @@
   "title": "Age of Sigmar Soulbound",
   "description": "Epic Adventures in the Mortal Realms",
   "version": "0.0.1",
-  
+
   "author": "SourTarte",
   "scripts": [],
   "esmodules": [],
@@ -24,5 +24,5 @@
   "secondaryTokenAttribute": "resources.mettle",
   "url": "https://your/hosted/system/repo/",
   "manifest": "https://github.com/SourTarte/sigmar-soulbound/raw/master/system.json",
-  "download": "https://github.com/SourTarte/sigmar-soulbound/archive/master.zip"
+  "download": "https://raw.githubusercontent.com/SourTarte/sigmar-soulbound/archive/master.zip"
 }
